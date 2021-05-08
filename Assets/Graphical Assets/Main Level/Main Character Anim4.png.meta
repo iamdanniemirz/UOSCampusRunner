@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: fe92967303a39b84da16d38ecb47177b
+timeCreated: 1500553426
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Main Character Anim4_0
+    21300002: Main Character Anim4_1
+    21300004: Main Character Anim4_2
+    21300006: Main Character Anim4_3
+    21300008: Main Character Anim4_4
+    21300010: Main Character Anim4_5
+    21300012: Main Character Anim4_6
+    21300014: Main Character Anim4_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main Character Anim4_0
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3794
+        width: 614
+        height: 779
+      alignment: 9
+      pivot: {x: 0.34026334, y: 0.11260618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_1
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 3688
+        width: 1171
+        height: 809
+      alignment: 9
+      pivot: {x: 0.15458834, y: 0.80727375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_2
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 2146
+        width: 893
+        height: 2181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_3
+      rect:
+        serializedVersion: 2
+        x: 5452
+        y: 2118
+        width: 894
+        height: 2181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1901
+        width: 1160
+        height: 1698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_5
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2626
+        width: 1174
+        height: 811
+      alignment: 9
+      pivot: {x: 0.15188208, y: 0.7701499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_6
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 197
+        width: 2510
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Main Character Anim4_7
+      rect:
+        serializedVersion: 2
+        x: 4024
+        y: 0
+        width: 2322
+        height: 1486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
